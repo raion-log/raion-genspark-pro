@@ -14,7 +14,7 @@ Genspark AI 이미지 생성 자동화 도구
 
 | 항목 | 내용 |
 |------|------|
-| 버전 | 1.0.0 |
+| 버전 | 1.0.1 |
 | 지원 | [@raion.log](https://instagram.com/raion.log) |
 
 ---
